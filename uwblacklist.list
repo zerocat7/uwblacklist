@@ -1,6 +1,3 @@
-# 内容:uw正则黑名单
-# 更新:2024-01-13
-# 数量:29
 URL-REGEX,(^.*\@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168)\.(info|biz|com|de|net|org|me|la)
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
