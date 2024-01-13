@@ -1,6 +1,6 @@
-# ÄÚÈİ:uwÕıÔòºÚÃûµ¥
-# ¸üĞÂ:2024-01-13
-# ÊıÁ¿:29
+# å†…å®¹:uwæ­£åˆ™é»‘åå•
+# æ›´æ–°:2024-01-13
+# æ•°é‡:22
 URL-REGEX,(^.*\@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168)\.(info|biz|com|de|net|org|me|la)
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
