@@ -1,0 +1,25 @@
+# 内容:uw正则黑名单
+# 更新:2024-01-13
+# 数量:29
+URL-REGEX,(^.*\@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168)\.(info|biz|com|de|net|org|me|la)
+URL-REGEX,(Subject|HELO|SMTP)
+URL-REGEX,(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
+URL-REGEX,(.*\.||).amnesty.org
+URL-REGEX,(.*\.||).botanwang.com
+URL-REGEX,(.*\.||).canyu.org
+URL-REGEX,(.*\.||).epochtimes.com
+URL-REGEX,(.*\.||).falundafa.org
+URL-REGEX,(.*\.||).freedomchina.info
+URL-REGEX,(.*\.||).freeweibo.com
+URL-REGEX,(.*\.||).greatfire.org
+URL-REGEX,(.*\.||).minghui.org
+URL-REGEX,(.*\.||).rfa.org
+URL-REGEX,(.*\.||).theepochtimes.com
+URL-REGEX,(.*\.||).thetibetpost.com
+URL-REGEX,(.*\.||).tibet.net
+URL-REGEX,(.*\.||).xizang-zhiye.org
+URL-REGEX,(.*\.||).xinsheng.net
+URL-REGEX,(.*\.||).yuanming.net
+URL-REGEX,(.*\.||).zhengjian.org
+URL-REGEX,(.*\.||).ntdtv.com
+URL-REGEX,(.*\.||).pincong.rocks
